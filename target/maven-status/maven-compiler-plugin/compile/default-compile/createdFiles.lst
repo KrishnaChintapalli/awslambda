@@ -1,0 +1,5 @@
+com/serverless/hello/function/modal/Person.class
+com/serverless/hello/function/Application.class
+com/serverless/hello/function/dao/PersonDao.class
+com/serverless/hello/function/dao/IPerson.class
+com/serverless/hello/function/HelloWorld.class
